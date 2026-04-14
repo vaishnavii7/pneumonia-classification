@@ -1,1 +1,1 @@
-Peumonia Classification using data from kaggle. Here, False Negatives are more dangerous compared to False Positives - we wouldn't want our system to misclassify when pneumonia is present to 'not present'. 
+Peumonia Classification using data from kaggle. Here, False Negatives are more dangerous compared to False Positives - we wouldn't want our system to misclassify when pneumonia is present. 
